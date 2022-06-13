@@ -15,7 +15,6 @@ import matplotlib.pyplot as plt
 import random
 import numpy as np
 
-# lists you want to be accessible from all parts of your code are:
 global positions_rabbits_x, positions_rabbits_y, rabbit_speed, rabbits_angles, start_rabbits, rabbits_count, positions_foxes_x, positions_foxes_y, fox_speed, foxes_angles, timestep, time, rabbits_per_timestep, frac_living_rabbits, avg_half_life
 #-------------------
 def predator_prey():
